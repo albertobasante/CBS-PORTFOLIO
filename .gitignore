@@ -1,0 +1,25 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Credentials and private keys
+credentials.txt
+passwords.txt
+secrets.txt
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/

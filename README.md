@@ -1,9 +1,14 @@
--CBS PORT FOLIO
-Personal CBS learning portfolio
---FOCUS
-linux
-networking
-python
-CBS fundamental
---PROJECTS
-soon
+# Cybersecurity Portfolio
+
+Personal cybersecurity learning portfolio.
+
+## Current Focus
+
+- Linux
+- Networking
+- Python
+- Cybersecurity fundamentals
+
+## Projects
+
+Coming soon.
